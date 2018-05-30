@@ -137,52 +137,42 @@ The pain point of airdrops to distribute digital assets is that users cannot kno
 {% tabs %}
 {% tab title="CN" %}
 现阶段糖果分发平台往往是由中心化平台统一接收项目方糖果，再将糖果以多种方式分发到用户手中。如果实现盈利则项目方以中心化的形式独揽收益，而普通用户除了获取空投的糖果之外并没有获得到其他收益，最终只能沦落为平台盈利的工具。
-{% endtab %}
 
-{% tab title="EN" %}
-Currently, the candy distribution always depends on a centralized platform, which receives the candy from the project and distributes the candy to users in various ways. If the platforms get profit, they will monopolize revenues in a centralized manner, while ordinary users will not receive other income except airdrops, who will become profit tools for the platform eventually.
-{% endtab %}
-{% endtabs %}
+![&#x4F20;&#x7EDF;&#x7CD6;&#x679C;&#x5206;&#x53D1;&#x6D41;&#x7A0B;](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221330909_Artboard_0.png)
 
-![&#x4F20;&#x7EDF;&#x7CD6;&#x679C;&#x5206;&#x53D1;&#x6D41;&#x7A0B;/Traditional candy distribution process](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221330909_Artboard_0.png)
-
-{% tabs %}
-{% tab title="CN" %}
 LORDLESS 创新性的将平台的糖果分发能力进行拆分，并把这种能力注入到特定的 ERC-721\(LDB\) 资产中，我们将这个过程定义为 “Platform Service Digitalizing\(平台服务数字化\)”，即 PSD。LORDLESS 预计将糖果的分发功能以智能合约的形式与 LDB 关联，这样 LDB 就具备了独立的、不依赖平台的糖果分发能力。用户购买 LDB 后即成为 LORD，LORD 将会在 LDB 中的糖果被领取的过程中获得收益。即便 LORDLESS 项目方不再投入精力维护产品，LDB 本身的接收糖果和分发糖果的能力依旧可以维持整个生态的运行，以此保证 LORD 的经济收益。更加重要的是，即便是 LORDLESS 官方也无法掠夺你对 LDB 的所有权，也无法终止 LDB 的运转。
-{% endtab %}
 
-{% tab title="EN" %}
-LORDLESS splits the candy distribution capacities of the platform creatively and injects the capacity into specific ERC-721 \(LDB\) assets. We define this process as "Platform Service Digitalizing," that is, PSD. LORDLESS expects to link the candy's distribution function with LDB in the form of a smart contract so that LDB has a capability of platform-independent candy distribution. When the user purchases LDB, he becomes LORD. LORD will receive benefits in the process of candy claimed in LDB. Even if the LORDLESS project team does not devote energy into maintaining the product, the LDB's capacity to receive candy and distribute candy will still keep the entire ecological operation, to ensure the benefits of LORD. More importantly, even LORDLESS officials cannot plunder your ownership of LDB, or stop the LDB running.
-{% endtab %}
-{% endtabs %}
+![LORDLESS &#x7CD6;&#x679C;&#x5206;&#x53D1;&#x6D41;&#x7A0B;](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221398407_image.png)
 
-![LORDLESS &#x7CD6;&#x679C;&#x5206;&#x53D1;&#x6D41;&#x7A0B;/LORDLESS candy distribution process](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221398407_image.png)
-
-{% tabs %}
-{% tab title="CN" %}
 在 LORDLESS 中⽤户通过游戏界⾯做任务的方式在 LDB 中领取糖果，且 LDB 的等级决定了可以分发糖果的多少。具备更⾼糖果分发能⼒的 LDB 会⾃然的吸引更多的⽤户，⽽这些⽤户领取糖果的⾏为⼜会为 LDB 提升等级，以此来形成流量⽣态的闭环。
-{% endtab %}
 
-{% tab title="EN" %}
-In LORDLESS, users claim candy in the LDB through the game interface, and the LDB's Level determines how much candy to be distributed. LDB with higher candy distribution capability will attract more users accordingly. The performance of these users claiming candy will level LDB up to complete a closed loop of traffic-ecology.
-{% endtab %}
-{% endtabs %}
+![&#x6D41;&#x91CF;&#x751F;&#x6001;](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221434064_image.png)
 
-![&#x6D41;&#x91CF;&#x751F;&#x6001;/Traffic Ecology](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221434064_image.png)
-
-{% tabs %}
-{% tab title="CN" %}
 1. 分发更多糖果
 2. 吸引更多用户领取糖果
-3. LDB 升级
+3.  LDB 升级
 4. 关注更多频道
 5. 获得更多糖果奖励
 6. 买更多的 LDB
 
 可预见的是未来许多平台将会进入 PSD 进程来巩固和完善用户资产持久化的需求，该需求目前与 ERC-721 完全契合。PSD 的过程本质上也是上链的过程。区块链的核心思想是分布式与去中心化，而平台手握生杀大权使得用户处于弱势地位本身就是与区块链思维冲突的。LORDLESS 坚定信仰区块链核心思想，并不遗余力的将其贯彻到产品中。LORDLESS 的终极目标是将平台的服务拆分成用户完全可控的资产，并使之独立运行。新一代基于区块链技术实现 PSD 的平台，我们称之为 “Blockform”，LORDLESS 正是 Blockform 中的先行者。
+
+![Blockform](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221465691_image.png)
 {% endtab %}
 
 {% tab title="EN" %}
+Currently, the candy distribution always depends on a centralized platform, which receives the candy from the project and distributes the candy to users in various ways. If the platforms get profit, they will monopolize revenues in a centralized manner, while ordinary users will not receive other income except airdrops, who will become profit tools for the platform eventually.
+
+![Traditional candy distribution process](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221330909_Artboard_0.png)
+
+LORDLESS splits the candy distribution capacities of the platform creatively and injects the capacity into specific ERC-721 \(LDB\) assets. We define this process as "Platform Service Digitalizing," that is, PSD. LORDLESS expects to link the candy's distribution function with LDB in the form of a smart contract so that LDB has a capability of platform-independent candy distribution. When the user purchases LDB, he becomes LORD. LORD will receive benefits in the process of candy claimed in LDB. Even if the LORDLESS project team does not devote energy into maintaining the product, the LDB's capacity to receive candy and distribute candy will still keep the entire ecological operation, to ensure the benefits of LORD. More importantly, even LORDLESS officials cannot plunder your ownership of LDB, or stop the LDB running.
+
+![LORDLESS candy distribution process](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221398407_image.png)
+
+In LORDLESS, users claim candy in the LDB through the game interface, and the LDB's Level determines how much candy to be distributed. LDB with higher candy distribution capability will attract more users accordingly. The performance of these users claiming candy will level LDB up to complete a closed loop of traffic-ecology.
+
+![Traffic Ecology](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221434064_image.png)
+
 1. Distribute more candy
 2. Attract more user claiming candy
 3. Level LDB up
@@ -191,8 +181,8 @@ In LORDLESS, users claim candy in the LDB through the game interface, and the LD
 6. Buy more LDB
 
 It is easily foreseeable that many platforms will enter the PSD process to consolidate and improve the needs of the user's asset persistence in the future, which is currently fully compatible with ERC-721. The operation of PSD is mostly the process of making asset on the blockchain. The core idea of the blockchain is distributed and decentralized, but the vast power of the platform makes the user in a weak position, which conflicts with the blockchain thinking. LORDLESS believes in the core idea of the blockchain firmly and has spared no effort to implement it into products. The ultimate goal of LORDLESS is to split the platform's services into users' fully controllable assets and make them run independently. A new generation of PSD platforms based on blockchain technology, we call it "Blockform," LORDLESS is the forerunner in Blockform.
-{% endtab %}
-{% endtabs %}
 
 ![Blockform](https://d2mxuefqeaa7sj.cloudfront.net/s_21C4DBB357653DC6D49287A0D586E70E66CF62E12EA93D84E80D07CD35E7EA78_1527221465691_image.png)
+{% endtab %}
+{% endtabs %}
 
