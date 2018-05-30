@@ -1,5 +1,5 @@
 ---
-description: LORDLESS web 项目中的所有文案。
+description: LORDLESS web 项目中的所有文案
 ---
 
 # Copywriting
