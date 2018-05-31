@@ -2,7 +2,7 @@
 description: 首页 Airdrop plan 的相关文案
 ---
 
-# Airdrop Plan
+# Copywriting
 
 ## Slogan
 
