@@ -149,19 +149,19 @@ if (未出售 && (未登录 || (已登录 && 非 owner))) {
 {% endtab %}
 
 {% tab title="Case 2" %}
-![Sale](../../.gitbook/assets/image%20%284%29.png)
+![Sale](../../.gitbook/assets/image%20%285%29.png)
 {% endtab %}
 
 {% tab title="Case 3" %}
-![Cancel sale](../../.gitbook/assets/image%20%286%29.png)
+![Cancel sale](../../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 
 {% tab title="Case 4" %}
-![Buy](../../.gitbook/assets/image%20%281%29.png)
+![Buy](../../.gitbook/assets/image%20%282%29.png)
 {% endtab %}
 
 {% tab title="Case 5" %}
-![Sign to buy](../../.gitbook/assets/image.png)
+![Sign to buy](../../.gitbook/assets/image%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
